@@ -1,0 +1,12 @@
+Python Non-Routine Resources
+https://learnpythonthehardway.org/
+
+Necessary libraries for ML
+1)Numpy
+2)Matplotlib
+3)Pandas
+
+OpenCV-3(Image Processing)
+
+Courses for ML 
+1) Andrew Ng - Stanford Course (CourseNotes: http://www.holehouse.org/mlclass )
