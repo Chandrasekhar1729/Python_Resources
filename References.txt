@@ -7,6 +7,3 @@ Necessary libraries for ML
 3)Pandas
 
 OpenCV-3(Image Processing)
-
-Courses for ML 
-1) Andrew Ng - Stanford Course (CourseNotes: http://www.holehouse.org/mlclass )
